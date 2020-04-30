@@ -31,9 +31,11 @@ Tentative plan for Analysis on GCP: We will use PySpark and Jupyter notebook for
 
 
 Research Citation:
+
 1) Predictive analytics using big data for increased customer loyalty: Syriatel Telecom Company case study
 Wissam Nazeer Wassouf, Ramez Alkhatib, Kamal Salloum and Shadi Balloul 
+
 2)Machine-Learning Techniques for Customer Retention: A Comparative Study,Sahar F. Sabbeh
-3)Analysis of Customer Churn prediction in Logistic
-Industry using Machine Learning
+
+3)Analysis of Customer Churn prediction in LogisticIndustry using Machine Learning
 Pradeep B, Sushmitha Vishwanath Rao and Swati M PuranikAkshay Hegde
