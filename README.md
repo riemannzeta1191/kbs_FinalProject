@@ -28,3 +28,12 @@ The below dashboard shows the Histogram of log of visit numbers per session sinc
 ![alt text](https://github.com/riemannzeta1191/kbs_FinalProject/blob/master/Images/Image3.png)
 
 Tentative plan for Analysis on GCP: We will use PySpark and Jupyter notebook for pre-processing and showing analysis on the dataset. We will use BigQuery ML to build models for Multiple Linear Regression, K-Nearest Neighbours and Random Forest Regression. After evaluating the results on those models, we will select the model which is more accurate. We will use Visual Studio on GCP to do Exploratory Data Analysis and build Dashboards.
+
+
+Research Citation:
+1) Predictive analytics using big data for increased customer loyalty: Syriatel Telecom Company case study
+Wissam Nazeer Wassouf, Ramez Alkhatib, Kamal Salloum and Shadi Balloul 
+2)Machine-Learning Techniques for Customer Retention: A Comparative Study,Sahar F. Sabbeh
+3)Analysis of Customer Churn prediction in Logistic
+Industry using Machine Learning
+Pradeep B, Sushmitha Vishwanath Rao and Swati M PuranikAkshay Hegde
