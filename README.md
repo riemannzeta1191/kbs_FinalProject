@@ -24,7 +24,7 @@ The below dashboard shows the device information
 
 ![alt text](https://github.com/riemannzeta1191/kbs_FinalProject/blob/master/Images/Image1.png)
 
-
-
+The below dashboard shows the Histogram of log of visit numbers per session since per session data is also huge.
+![alt text](https://github.com/riemannzeta1191/kbs_FinalProject/blob/master/Images/Image3.png)
 
 Tentative plan for Analysis on GCP: We will use PySpark and Jupyter notebook for pre-processing and showing analysis on the dataset. We will use BigQuery ML to build models for Multiple Linear Regression, K-Nearest Neighbours and Random Forest Regression. After evaluating the results on those models, we will select the model which is more accurate. We will use Visual Studio on GCP to do Exploratory Data Analysis and build Dashboards.
