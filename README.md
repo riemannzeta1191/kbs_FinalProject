@@ -1,4 +1,5 @@
-# kbs_FinalProject
+# KBS_FinalProject 
+Google Analytics Customer Revenue Prediction
 Group Name - Cartilage
 
 Members: Vamsi Pogula - vpogula@uncc.edu Sayan Bhattacharya - sbhatt11@uncc.edu Mohammad Turab Ali - mohamma@uncc.edu
