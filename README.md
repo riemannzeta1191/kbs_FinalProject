@@ -7,7 +7,7 @@ Members: Vamsi Pogula - vpogula@uncc.edu Sayan Bhattacharya - sbhatt11@uncc.edu 
 
 Vamsi Pogula: - Researched the dataset  and put an ideation of the project workflow using GCP Platform.
 
-Turab Ali: - Worked on building the model for prediction
+Turab Ali: - Worked on building the model for prediction.
 
 Sayan Bhattacharya: - Worked on the preprocessing the dataset and building dashboards.Moreover teamed up with Ali and Vamsi to build the model.
 
