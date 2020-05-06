@@ -4,6 +4,11 @@ Group Name - Cartilage
 
 Members: Vamsi Pogula - vpogula@uncc.edu Sayan Bhattacharya - sbhatt11@uncc.edu Mohammad Turab Ali - mohamma@uncc.edu
 
+
+Vamsi Pogula: - Researched the dataset  and put an ideation of the project workflow using GCP Platform.
+Turab Ali: - Worked on building the model for prediction
+Sayan Bhattacharya: - Worked on the preprocessing and building.Moreover teamed up with Ali and Vamsi to build the model
+
 Dataset - https://www.kaggle.com/c/ga-customer-revenue-prediction/data
 
 Research Question: We used customer data from Google’s Merchandise Store (G-Store) available on Kaggle to derive essential insights to help marketing teams make better use of their budgets. Specifically, we wish to aid a firm to use their data as a guiding tool for decision-making. To help G-Store marketing teams to take actionable operational changes by knowing the current business trend, We will be analyzing a Google Merchandise Store customer dataset to predict revenue per customer and identifying the features which are influencing most in revenue generation.
